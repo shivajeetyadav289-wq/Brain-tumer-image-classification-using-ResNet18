@@ -134,6 +134,7 @@ conda activate brain-tumor
 pip install -r requirements.txt
 ```
 ## Poject structure
+``` text
 neural-net-brain-tumor/
 ├── data/
 ├── models/
@@ -148,7 +149,7 @@ neural-net-brain-tumor/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## Limitations
 
 This project is intended for educational and research purposes.
