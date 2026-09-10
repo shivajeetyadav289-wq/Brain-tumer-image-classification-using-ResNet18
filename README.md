@@ -2,6 +2,8 @@
 
 A deep learning project for classifying brain images into four categories using
 transfer learning and fine-tuning with ResNet18 in PyTorch.
+
+
 <img src="https://github.com/shivajeetyadav289-wq/Brain-tumer-image-classification-using-ResNet18/blob/main/Image/Screenshot%202026-09-10%20074616.png" alt="App Screenshot" width="500">
 ## Project Overview
 
