@@ -134,8 +134,7 @@ conda activate brain-tumor
 pip install -r requirements.txt
 ```
 ## Poject structure
-neural_net_brain_tumer/
-│
+neural-net-brain-tumor/
 ├── data/
 ├── models/
 ├── notebooks/
@@ -144,7 +143,6 @@ neural_net_brain_tumer/
 │   ├── __init__.py
 │   ├── model.py
 │   └── inference.py
-│
 ├── app.py
 ├── test_inference.py
 ├── requirements.txt
